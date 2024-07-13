@@ -1,3 +1,5 @@
 # add the following to _config.yml file
 title: Abdillahi Nur
+description: I'm a software developer who enjoys making products that users will love!
+logo: /assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
