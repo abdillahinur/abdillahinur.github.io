@@ -1,6 +1,6 @@
 # Software Developer
 
-#### Technical Skills: Java, Python, C/C++, SQL, JavaScript, HTML/CSS, Matlab, React, Next.js, AWS Cloud Developer Kit
+#### Technical Skills: Java, Python, C/C++, SQL, JavaScript, HTML/CSS, Matlab, React, Next.js, Angular, AWS Cloud Developer Kit, 
 
 ## Education     		
 - B.Eng., Software Engineering| Carleton University (_April 2021_)
@@ -9,7 +9,7 @@
 **Software Developer/Analyst @ Canada Revenue Agency (_February 2020 - Present_)**
 - Developed the Child and Family Benefits Calculator, which calculates if & how much family benefits a family qualifies for based on mutliple criterion such as income, location, family size. At its peak, the application was used 20,000 times a day.
 - Designed and developed the revamped 'My Account' page on the Canada Revenue Agency website
-- Built with Java, Angular Framework (Typescript) and Cobol
+- Built with Java, Angular Framework, and Cobol
 
 **Software Developer @ Carleton University Autonomous Systems  (_January 2019- April 2019_)**
 - Designed and developed the Integrated Beacon Network, which allows for the Autonomous Vehicle to communicate with Ardurino-based beacons placed around the University's campus to transmit it's current location to and from
