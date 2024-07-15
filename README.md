@@ -1,6 +1,6 @@
 # Software Developer
 
-#### Technical Skills: Java, Python, C/C++, SQL, JavaScript, HTML/CSS, Matlab, AWS Cloud Developer Kit
+#### Technical Skills: Java, Python, C/C++, SQL, JavaScript, HTML/CSS, Matlab, React, Next.js, AWS Cloud Developer Kit
 
 ## Education     		
 - B.Eng., Software Engineering| Carleton University (_April 2021_)
